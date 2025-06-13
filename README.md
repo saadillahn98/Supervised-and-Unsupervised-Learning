@@ -1,2 +1,2 @@
-# Submisson Proyek: Membangun model machine learning menggunakan metode supervised dan unsupervised learning pada kasus nyata.
-Proyek Pembangunan Model Supervised dan Unsupervised Learning pada Data Tabular
+# Supervised & Unsupervised Learning - Machine Learning 
+Submission Akhir Proyek Pembangunan Model Supervised dan Unsupervised Learning pada Data Tabular
