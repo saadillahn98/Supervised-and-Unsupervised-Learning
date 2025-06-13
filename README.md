@@ -1,6 +1,4 @@
 # Machine Learning - Supervised & Unsupervised Learning
-Submission Akhir Proyek Pembangunan Model Supervised dan Unsupervised Learning pada Data Tabular
-
 Kelas ini dirancang untuk pemula yang ingin memulai karier di bidang Machine Learning dengan mengikuti standar kompetensi industri terkini. Setelah menyelesaikan kelas ini, siswa memiliki kemampuan untuk mengembangkan proyek machine learning yang berfokus pada klasifikasi, regresi, dan clustering pada data tabular.
 
 # Materi yang dipelajari
